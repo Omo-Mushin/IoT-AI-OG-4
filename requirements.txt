@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-plotly-express
+plotly
 scikit-learn
 lifelines
 statsmodels
 prophet
+openpyxl
